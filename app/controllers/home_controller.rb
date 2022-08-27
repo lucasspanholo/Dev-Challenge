@@ -1,32 +1,38 @@
 class HomeController < ApplicationController
-  
   before_action :set_global_variable_task
 
+  require 'rest-client'
+  
+
   def index
-    @variable = @variable_task.general
   end
 
   def ruby
-    @ruby = @variable_task.ruby
+    response = RestClient.get('https://api.github.com/search/repositories?q=rubyin:name')
+    @ruby = JSON.parse(response.body)
   end
 
   def python
-    @python = @variable_task.python
+    response = RestClient.get('https://api.github.com/search/repositories?q=pythonin:name')
+    @python = JSON.parse(response.body)
   end
 
   def elixir
-    @elixir = @variable_task.elixir
+    response = RestClient.get('https://api.github.com/search/repositories?q=elixirin:name')
+    @elixir = JSON.parse(response.body)
   end
 
   def nodejs
-    @nodejs = @variable_task.nodejs
+    response = RestClient.get('https://api.github.com/search/repositories?q=nodejsin:name')
+    @nodejs = JSON.parse(response.body)
   end
 
   def aspnet
-    @aspnet = @variable_task.aspnet
+    response = RestClient.get('https://api.github.com/search/repositories?q=aspnetin:name')
+    @aspnet = JSON.parse(response.body)
   end
 
-  private
+  
 
   def set_global_variable_task
     @variable_task = GlobalVariable.new
