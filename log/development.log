@@ -578,3 +578,279 @@ Processing by HomeController#ruby as HTML
 Completed 200 OK in 1070ms (Views: 7.5ms | ActiveRecord: 0.0ms | Allocations: 13186)
 
 
+Started GET "/" for 172.20.0.1 at 2022-09-01 18:22:31 +0000
+Cannot render console from 172.20.0.1! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by HomeController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (Duration: 1.6ms | Allocations: 510)
+  Rendered layout layouts/application.html.erb (Duration: 75.3ms | Allocations: 35078)
+Completed 200 OK in 90ms (Views: 80.8ms | ActiveRecord: 0.0ms | Allocations: 41254)
+
+
+Started GET "/ruby" for 172.20.0.1 at 2022-09-01 18:22:40 +0000
+Cannot render console from 172.20.0.1! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by HomeController#ruby as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering home/ruby.html.erb within layouts/application
+  Rendered home/ruby.html.erb within layouts/application (Duration: 1.5ms | Allocations: 689)
+  Rendered layout layouts/application.html.erb (Duration: 5.7ms | Allocations: 3250)
+Completed 200 OK in 1296ms (Views: 6.4ms | ActiveRecord: 0.0ms | Allocations: 13158)
+
+
+Started GET "/" for 172.20.0.1 at 2022-09-01 18:22:49 +0000
+Cannot render console from 172.20.0.1! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by HomeController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (Duration: 0.1ms | Allocations: 15)
+  Rendered layout layouts/application.html.erb (Duration: 3.3ms | Allocations: 2377)
+Completed 200 OK in 4ms (Views: 3.9ms | ActiveRecord: 0.0ms | Allocations: 2712)
+
+
+Started GET "/python" for 172.20.0.1 at 2022-09-01 18:22:50 +0000
+Cannot render console from 172.20.0.1! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by HomeController#python as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering home/python.html.erb within layouts/application
+  Rendered home/python.html.erb within layouts/application (Duration: 3.6ms | Allocations: 632)
+  Rendered layout layouts/application.html.erb (Duration: 7.5ms | Allocations: 2984)
+Completed 200 OK in 1194ms (Views: 8.4ms | ActiveRecord: 0.0ms | Allocations: 10371)
+
+
+Started GET "/" for 172.20.0.1 at 2022-09-01 18:22:53 +0000
+Cannot render console from 172.20.0.1! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by HomeController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (Duration: 0.1ms | Allocations: 15)
+  Rendered layout layouts/application.html.erb (Duration: 4.1ms | Allocations: 2365)
+Completed 200 OK in 5ms (Views: 5.0ms | ActiveRecord: 0.0ms | Allocations: 2696)
+
+
+Started GET "/" for 172.20.0.1 at 2022-09-01 18:26:35 +0000
+Cannot render console from 172.20.0.1! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by HomeController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (Duration: 0.1ms | Allocations: 15)
+  Rendered layout layouts/application.html.erb (Duration: 13.7ms | Allocations: 2318)
+Completed 200 OK in 15ms (Views: 14.3ms | ActiveRecord: 0.0ms | Allocations: 2642)
+
+
+Started GET "/aspnet" for 172.20.0.1 at 2022-09-01 18:26:37 +0000
+Cannot render console from 172.20.0.1! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by HomeController#aspnet as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering home/aspnet.html.erb within layouts/application
+  Rendered home/aspnet.html.erb within layouts/application (Duration: 2.1ms | Allocations: 657)
+  Rendered layout layouts/application.html.erb (Duration: 5.9ms | Allocations: 3035)
+Completed 200 OK in 1067ms (Views: 6.5ms | ActiveRecord: 0.0ms | Allocations: 10551)
+
+
+Started GET "/" for 172.20.0.1 at 2022-09-01 19:07:24 +0000
+Cannot render console from 172.20.0.1! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by HomeController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (Duration: 1.3ms | Allocations: 510)
+  Rendered layout layouts/application.html.erb (Duration: 77.1ms | Allocations: 34942)
+Completed 200 OK in 91ms (Views: 80.8ms | ActiveRecord: 0.0ms | Allocations: 41142)
+
+
+Started GET "/ruby" for 172.20.0.1 at 2022-09-01 19:07:26 +0000
+Cannot render console from 172.20.0.1! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by HomeController#ruby as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering home/ruby.html.erb within layouts/application
+  Rendered home/ruby.html.erb within layouts/application (Duration: 1.3ms | Allocations: 692)
+  Rendered layout layouts/application.html.erb (Duration: 5.3ms | Allocations: 3292)
+Completed 200 OK in 1247ms (Views: 6.1ms | ActiveRecord: 0.0ms | Allocations: 13227)
+
+
+Started GET "/" for 172.20.0.1 at 2022-09-01 19:07:29 +0000
+Cannot render console from 172.20.0.1! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by HomeController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (Duration: 0.1ms | Allocations: 15)
+  Rendered layout layouts/application.html.erb (Duration: 4.0ms | Allocations: 2373)
+Completed 200 OK in 5ms (Views: 4.7ms | ActiveRecord: 0.0ms | Allocations: 2708)
+
+
+Started GET "/python" for 172.20.0.1 at 2022-09-01 19:07:29 +0000
+Cannot render console from 172.20.0.1! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by HomeController#python as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering home/python.html.erb within layouts/application
+  Rendered home/python.html.erb within layouts/application (Duration: 1.6ms | Allocations: 632)
+  Rendered layout layouts/application.html.erb (Duration: 4.7ms | Allocations: 2996)
+Completed 200 OK in 1223ms (Views: 5.2ms | ActiveRecord: 0.0ms | Allocations: 10392)
+
+
+Started GET "/elixir" for 172.20.0.1 at 2022-09-01 19:07:32 +0000
+Cannot render console from 172.20.0.1! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by HomeController#elixir as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering home/elixir.html.erb within layouts/application
+  Rendered home/elixir.html.erb within layouts/application (Duration: 1.1ms | Allocations: 643)
+  Rendered layout layouts/application.html.erb (Duration: 5.4ms | Allocations: 3003)
+Completed 200 OK in 1577ms (Views: 6.0ms | ActiveRecord: 0.0ms | Allocations: 10506)
+
+
+Started GET "/nodejs" for 172.20.0.1 at 2022-09-01 19:07:35 +0000
+Cannot render console from 172.20.0.1! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by HomeController#nodejs as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering home/nodejs.html.erb within layouts/application
+  Rendered home/nodejs.html.erb within layouts/application (Duration: 1.3ms | Allocations: 633)
+  Rendered layout layouts/application.html.erb (Duration: 4.6ms | Allocations: 3007)
+Completed 200 OK in 1102ms (Views: 5.2ms | ActiveRecord: 0.0ms | Allocations: 10448)
+
+
+Started GET "/aspnet" for 172.20.0.1 at 2022-09-01 19:07:37 +0000
+Cannot render console from 172.20.0.1! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by HomeController#aspnet as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering home/aspnet.html.erb within layouts/application
+  Rendered home/aspnet.html.erb within layouts/application (Duration: 2.0ms | Allocations: 652)
+  Rendered layout layouts/application.html.erb (Duration: 7.3ms | Allocations: 3001)
+Completed 200 OK in 1189ms (Views: 8.3ms | ActiveRecord: 0.0ms | Allocations: 10475)
+
+
+Started GET "/" for 172.20.0.1 at 2022-09-01 19:08:05 +0000
+Cannot render console from 172.20.0.1! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by HomeController#index as HTML
+Completed 500 Internal Server Error in 13ms (ActiveRecord: 0.0ms | Allocations: 2958)
+
+
+  
+NoMethodError (undefined method `set_global_variable_task' for #<HomeController:0x000000000276a0>):
+  
+activesupport (7.0.3.1) lib/active_support/callbacks.rb:400:in `block in make_lambda'
+activesupport (7.0.3.1) lib/active_support/callbacks.rb:199:in `block (2 levels) in halting'
+actionpack (7.0.3.1) lib/abstract_controller/callbacks.rb:34:in `block (2 levels) in <module:Callbacks>'
+activesupport (7.0.3.1) lib/active_support/callbacks.rb:200:in `block in halting'
+activesupport (7.0.3.1) lib/active_support/callbacks.rb:595:in `block in invoke_before'
+activesupport (7.0.3.1) lib/active_support/callbacks.rb:595:in `each'
+activesupport (7.0.3.1) lib/active_support/callbacks.rb:595:in `invoke_before'
+activesupport (7.0.3.1) lib/active_support/callbacks.rb:116:in `block in run_callbacks'
+actiontext (7.0.3.1) lib/action_text/rendering.rb:20:in `with_renderer'
+actiontext (7.0.3.1) lib/action_text/engine.rb:69:in `block (4 levels) in <class:Engine>'
+activesupport (7.0.3.1) lib/active_support/callbacks.rb:127:in `instance_exec'
+activesupport (7.0.3.1) lib/active_support/callbacks.rb:127:in `block in run_callbacks'
+activesupport (7.0.3.1) lib/active_support/callbacks.rb:138:in `run_callbacks'
+actionpack (7.0.3.1) lib/abstract_controller/callbacks.rb:233:in `process_action'
+actionpack (7.0.3.1) lib/action_controller/metal/rescue.rb:22:in `process_action'
+actionpack (7.0.3.1) lib/action_controller/metal/instrumentation.rb:67:in `block in process_action'
+activesupport (7.0.3.1) lib/active_support/notifications.rb:206:in `block in instrument'
+activesupport (7.0.3.1) lib/active_support/notifications/instrumenter.rb:24:in `instrument'
+activesupport (7.0.3.1) lib/active_support/notifications.rb:206:in `instrument'
+actionpack (7.0.3.1) lib/action_controller/metal/instrumentation.rb:66:in `process_action'
+actionpack (7.0.3.1) lib/action_controller/metal/params_wrapper.rb:259:in `process_action'
+activerecord (7.0.3.1) lib/active_record/railties/controller_runtime.rb:27:in `process_action'
+actionpack (7.0.3.1) lib/abstract_controller/base.rb:151:in `process'
+actionview (7.0.3.1) lib/action_view/rendering.rb:39:in `process'
+actionpack (7.0.3.1) lib/action_controller/metal.rb:188:in `dispatch'
+actionpack (7.0.3.1) lib/action_controller/metal.rb:251:in `dispatch'
+actionpack (7.0.3.1) lib/action_dispatch/routing/route_set.rb:49:in `dispatch'
+actionpack (7.0.3.1) lib/action_dispatch/routing/route_set.rb:32:in `serve'
+actionpack (7.0.3.1) lib/action_dispatch/journey/router.rb:50:in `block in serve'
+actionpack (7.0.3.1) lib/action_dispatch/journey/router.rb:32:in `each'
+actionpack (7.0.3.1) lib/action_dispatch/journey/router.rb:32:in `serve'
+actionpack (7.0.3.1) lib/action_dispatch/routing/route_set.rb:852:in `call'
+rack (2.2.4) lib/rack/tempfile_reaper.rb:15:in `call'
+rack (2.2.4) lib/rack/etag.rb:27:in `call'
+rack (2.2.4) lib/rack/conditional_get.rb:27:in `call'
+rack (2.2.4) lib/rack/head.rb:12:in `call'
+actionpack (7.0.3.1) lib/action_dispatch/http/permissions_policy.rb:38:in `call'
+actionpack (7.0.3.1) lib/action_dispatch/http/content_security_policy.rb:36:in `call'
+rack (2.2.4) lib/rack/session/abstract/id.rb:266:in `context'
+rack (2.2.4) lib/rack/session/abstract/id.rb:260:in `call'
+actionpack (7.0.3.1) lib/action_dispatch/middleware/cookies.rb:697:in `call'
+activerecord (7.0.3.1) lib/active_record/migration.rb:603:in `call'
+actionpack (7.0.3.1) lib/action_dispatch/middleware/callbacks.rb:27:in `block in call'
+activesupport (7.0.3.1) lib/active_support/callbacks.rb:99:in `run_callbacks'
+actionpack (7.0.3.1) lib/action_dispatch/middleware/callbacks.rb:26:in `call'
+actionpack (7.0.3.1) lib/action_dispatch/middleware/executor.rb:14:in `call'
+actionpack (7.0.3.1) lib/action_dispatch/middleware/actionable_exceptions.rb:17:in `call'
+actionpack (7.0.3.1) lib/action_dispatch/middleware/debug_exceptions.rb:28:in `call'
+web-console (4.2.0) lib/web_console/middleware.rb:132:in `call_app'
+web-console (4.2.0) lib/web_console/middleware.rb:19:in `block in call'
+web-console (4.2.0) lib/web_console/middleware.rb:17:in `catch'
+web-console (4.2.0) lib/web_console/middleware.rb:17:in `call'
+actionpack (7.0.3.1) lib/action_dispatch/middleware/show_exceptions.rb:26:in `call'
+railties (7.0.3.1) lib/rails/rack/logger.rb:40:in `call_app'
+railties (7.0.3.1) lib/rails/rack/logger.rb:25:in `block in call'
+activesupport (7.0.3.1) lib/active_support/tagged_logging.rb:114:in `block in tagged'
+activesupport (7.0.3.1) lib/active_support/tagged_logging.rb:38:in `tagged'
+activesupport (7.0.3.1) lib/active_support/tagged_logging.rb:114:in `tagged'
+railties (7.0.3.1) lib/rails/rack/logger.rb:25:in `call'
+sprockets-rails (3.4.2) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (7.0.3.1) lib/action_dispatch/middleware/remote_ip.rb:93:in `call'
+actionpack (7.0.3.1) lib/action_dispatch/middleware/request_id.rb:26:in `call'
+rack (2.2.4) lib/rack/method_override.rb:24:in `call'
+rack (2.2.4) lib/rack/runtime.rb:22:in `call'
+activesupport (7.0.3.1) lib/active_support/cache/strategy/local_cache_middleware.rb:29:in `call'
+actionpack (7.0.3.1) lib/action_dispatch/middleware/server_timing.rb:20:in `call'
+actionpack (7.0.3.1) lib/action_dispatch/middleware/executor.rb:14:in `call'
+actionpack (7.0.3.1) lib/action_dispatch/middleware/static.rb:23:in `call'
+rack (2.2.4) lib/rack/sendfile.rb:110:in `call'
+actionpack (7.0.3.1) lib/action_dispatch/middleware/host_authorization.rb:137:in `call'
+railties (7.0.3.1) lib/rails/engine.rb:530:in `call'
+puma (5.6.5) lib/puma/configuration.rb:252:in `call'
+puma (5.6.5) lib/puma/request.rb:77:in `block in handle_request'
+puma (5.6.5) lib/puma/thread_pool.rb:340:in `with_force_shutdown'
+puma (5.6.5) lib/puma/request.rb:76:in `handle_request'
+puma (5.6.5) lib/puma/server.rb:443:in `process_client'
+puma (5.6.5) lib/puma/thread_pool.rb:147:in `block in spawn_thread'
+Started GET "/" for 172.20.0.1 at 2022-09-01 19:08:11 +0000
+Cannot render console from 172.20.0.1! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by HomeController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (Duration: 0.1ms | Allocations: 23)
+  Rendered layout layouts/application.html.erb (Duration: 13.9ms | Allocations: 13709)
+Completed 200 OK in 17ms (Views: 15.2ms | ActiveRecord: 0.0ms | Allocations: 14888)
+
+
+Started GET "/" for 172.20.0.1 at 2022-09-01 19:08:26 +0000
+Cannot render console from 172.20.0.1! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by HomeController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (Duration: 0.1ms | Allocations: 23)
+  Rendered layout layouts/application.html.erb (Duration: 17.6ms | Allocations: 13617)
+Completed 200 OK in 20ms (Views: 18.7ms | ActiveRecord: 0.0ms | Allocations: 14797)
+
+
+Started GET "/python" for 172.20.0.1 at 2022-09-01 19:08:27 +0000
+Cannot render console from 172.20.0.1! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by HomeController#python as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering home/python.html.erb within layouts/application
+  Rendered home/python.html.erb within layouts/application (Duration: 0.4ms | Allocations: 308)
+  Rendered layout layouts/application.html.erb (Duration: 3.8ms | Allocations: 2672)
+Completed 200 OK in 1457ms (Views: 4.5ms | ActiveRecord: 0.0ms | Allocations: 10222)
+
+
+Started GET "/ruby" for 172.20.0.1 at 2022-09-01 19:08:30 +0000
+Cannot render console from 172.20.0.1! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by HomeController#ruby as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering home/ruby.html.erb within layouts/application
+  Rendered home/ruby.html.erb within layouts/application (Duration: 0.6ms | Allocations: 309)
+  Rendered layout layouts/application.html.erb (Duration: 4.5ms | Allocations: 2666)
+Completed 200 OK in 1263ms (Views: 5.4ms | ActiveRecord: 0.0ms | Allocations: 10058)
+
+
+Started GET "/" for 172.20.0.1 at 2022-09-01 19:16:38 +0000
+Cannot render console from 172.20.0.1! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by HomeController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (Duration: 1.0ms | Allocations: 511)
+  Rendered layout layouts/application.html.erb (Duration: 69.7ms | Allocations: 34784)
+Completed 200 OK in 81ms (Views: 72.4ms | ActiveRecord: 0.0ms | Allocations: 40939)
+
+
