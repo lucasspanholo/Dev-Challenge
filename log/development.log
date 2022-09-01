@@ -408,3 +408,153 @@ Processing by HomeController#nodejs as HTML
 Completed 200 OK in 995ms (Views: 9.0ms | ActiveRecord: 0.0ms | Allocations: 10443)
 
 
+Started GET "/" for 172.20.0.1 at 2022-09-01 13:11:36 +0000
+Cannot render console from 172.20.0.1! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by HomeController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (Duration: 3.7ms | Allocations: 510)
+  Rendered layout layouts/application.html.erb (Duration: 80.3ms | Allocations: 36148)
+Completed 200 OK in 94ms (Views: 84.9ms | ActiveRecord: 0.0ms | Allocations: 42348)
+
+
+Started GET "/ruby" for 172.20.0.1 at 2022-09-01 13:11:42 +0000
+Cannot render console from 172.20.0.1! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by HomeController#ruby as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering home/ruby.html.erb within layouts/application
+  Rendered home/ruby.html.erb within layouts/application (Duration: 3.7ms | Allocations: 689)
+  Rendered layout layouts/application.html.erb (Duration: 8.0ms | Allocations: 3275)
+Completed 200 OK in 1235ms (Views: 8.7ms | ActiveRecord: 0.0ms | Allocations: 13207)
+
+
+Started GET "/python" for 172.20.0.1 at 2022-09-01 13:11:46 +0000
+Cannot render console from 172.20.0.1! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by HomeController#python as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering home/python.html.erb within layouts/application
+  Rendered home/python.html.erb within layouts/application (Duration: 3.7ms | Allocations: 635)
+  Rendered layout layouts/application.html.erb (Duration: 8.2ms | Allocations: 3014)
+Completed 200 OK in 1356ms (Views: 8.8ms | ActiveRecord: 0.0ms | Allocations: 10473)
+
+
+Started GET "/elixir" for 172.20.0.1 at 2022-09-01 13:11:50 +0000
+Cannot render console from 172.20.0.1! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by HomeController#elixir as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering home/elixir.html.erb within layouts/application
+  Rendered home/elixir.html.erb within layouts/application (Duration: 3.5ms | Allocations: 643)
+  Rendered layout layouts/application.html.erb (Duration: 7.7ms | Allocations: 3007)
+Completed 200 OK in 1261ms (Views: 8.3ms | ActiveRecord: 0.0ms | Allocations: 10485)
+
+
+Started GET "/nodejs" for 172.20.0.1 at 2022-09-01 13:11:53 +0000
+Cannot render console from 172.20.0.1! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by HomeController#nodejs as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering home/nodejs.html.erb within layouts/application
+  Rendered home/nodejs.html.erb within layouts/application (Duration: 3.4ms | Allocations: 632)
+  Rendered layout layouts/application.html.erb (Duration: 6.7ms | Allocations: 3002)
+Completed 200 OK in 1172ms (Views: 7.3ms | ActiveRecord: 0.0ms | Allocations: 10442)
+
+
+Started GET "/" for 172.20.0.1 at 2022-09-01 13:11:56 +0000
+Cannot render console from 172.20.0.1! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by HomeController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (Duration: 0.1ms | Allocations: 15)
+  Rendered layout layouts/application.html.erb (Duration: 3.5ms | Allocations: 2383)
+Completed 200 OK in 5ms (Views: 4.2ms | ActiveRecord: 0.0ms | Allocations: 2714)
+
+
+Started GET "/aspnet" for 172.20.0.1 at 2022-09-01 13:11:57 +0000
+Cannot render console from 172.20.0.1! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by HomeController#aspnet as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering home/aspnet.html.erb within layouts/application
+  Rendered home/aspnet.html.erb within layouts/application (Duration: 1.6ms | Allocations: 651)
+  Rendered layout layouts/application.html.erb (Duration: 5.1ms | Allocations: 3006)
+Completed 200 OK in 988ms (Views: 6.0ms | ActiveRecord: 0.0ms | Allocations: 10496)
+
+
+Started GET "/" for 172.20.0.1 at 2022-09-01 13:11:59 +0000
+Cannot render console from 172.20.0.1! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by HomeController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (Duration: 0.1ms | Allocations: 15)
+  Rendered layout layouts/application.html.erb (Duration: 3.1ms | Allocations: 2378)
+Completed 200 OK in 4ms (Views: 3.7ms | ActiveRecord: 0.0ms | Allocations: 2705)
+
+
+Started GET "/aspnet" for 172.20.0.1 at 2022-09-01 13:17:07 +0000
+Cannot render console from 172.20.0.1! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by HomeController#aspnet as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering home/aspnet.html.erb within layouts/application
+  Rendered home/aspnet.html.erb within layouts/application (Duration: 2.0ms | Allocations: 1031)
+  Rendered layout layouts/application.html.erb (Duration: 68.2ms | Allocations: 35845)
+Completed 200 OK in 1145ms (Views: 70.3ms | ActiveRecord: 0.0ms | Allocations: 51490)
+
+
+Started GET "/aspnet" for 172.20.0.1 at 2022-09-01 13:17:41 +0000
+Cannot render console from 172.20.0.1! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by HomeController#aspnet as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering home/aspnet.html.erb within layouts/application
+  Rendered home/aspnet.html.erb within layouts/application (Duration: 1.2ms | Allocations: 693)
+  Rendered layout layouts/application.html.erb (Duration: 4.8ms | Allocations: 3541)
+Completed 200 OK in 949ms (Views: 6.3ms | ActiveRecord: 0.0ms | Allocations: 12055)
+
+
+Started GET "/aspnet" for 172.20.0.1 at 2022-09-01 16:02:03 +0000
+Cannot render console from 172.20.0.1! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by HomeController#aspnet as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering home/aspnet.html.erb within layouts/application
+  Rendered home/aspnet.html.erb within layouts/application (Duration: 3.4ms | Allocations: 689)
+  Rendered layout layouts/application.html.erb (Duration: 22.9ms | Allocations: 3525)
+Completed 200 OK in 4667ms (Views: 30.0ms | Allocations: 11946)
+
+
+Started GET "/aspnet" for 172.20.0.1 at 2022-09-01 16:02:33 +0000
+Cannot render console from 172.20.0.1! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by HomeController#aspnet as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering home/aspnet.html.erb within layouts/application
+  Rendered home/aspnet.html.erb within layouts/application (Duration: 0.5ms | Allocations: 328)
+  Rendered layout layouts/application.html.erb (Duration: 4.2ms | Allocations: 2706)
+Completed 200 OK in 902ms (Views: 4.7ms | Allocations: 10314)
+
+
+Started GET "/" for 172.20.0.1 at 2022-09-01 16:18:04 +0000
+Cannot render console from 172.20.0.1! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by HomeController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (Duration: 1.0ms | Allocations: 164)
+  Rendered layout layouts/application.html.erb (Duration: 5.1ms | Allocations: 2523)
+Completed 200 OK in 7ms (Views: 5.9ms | Allocations: 2902)
+
+
+Started GET "/ruby" for 172.20.0.1 at 2022-09-01 16:23:13 +0000
+Cannot render console from 172.20.0.1! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by HomeController#ruby as HTML
+Started GET "/ruby" for 172.20.0.1 at 2022-09-01 16:23:13 +0000
+Cannot render console from 172.20.0.1! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by HomeController#ruby as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering layout layouts/application.html.erb
+  Rendering home/ruby.html.erb within layouts/application
+  Rendering home/ruby.html.erb within layouts/application
+  Rendered home/ruby.html.erb within layouts/application (Duration: 1.4ms | Allocations: 663)
+  Rendered home/ruby.html.erb within layouts/application (Duration: 0.9ms | Allocations: 692)
+  Rendered layout layouts/application.html.erb (Duration: 9.2ms | Allocations: 5434)
+  Rendered layout layouts/application.html.erb (Duration: 9.9ms | Allocations: 5694)
+Completed 200 OK in 1386ms (Views: 11.4ms | Allocations: 21912)
+
+
+Completed 200 OK in 1039ms (Views: 11.4ms | Allocations: 19737)
+
+
